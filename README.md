@@ -2,7 +2,7 @@
 
 A new Flutter project for a expenses app.
 
-![screenshot](screenshots/expenses-app.gif)
+![screenshot](https://imgur.com/hQRUqNH)
 
 ## Getting Started
 
